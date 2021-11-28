@@ -23,7 +23,7 @@ A table of employees who are eligible to be mentors was created by selecting cur
 Based on the original analysis of unique titles of those who are retiring, one may conclude that 90,398 employees are retiring. However, this analysis did not account for the fact that some of the retiring employees may not work for Pewlitt Hackard anymore. Because of this, an extra analysis was done which selected only those who are currently employed at Pewlett Hackard. This resulted in the table below: 
 
 *Currently Employed Retiring Titles*  
-![](Resources/current_retiringtitles.png)
+![](Resources/current_retiring_titles.png)
 
 As one can see, the number of roles that need to be filled is actually 72,458. However, there are only 1,549 employees who are eligible for the mentorship program. If the number of roles to be filled is divided by the number of available mentors, that would equal roughly 47 roles per mentor. Based on these results it can be concluded that Pewlett Hackard does not have enough mentors. 
 

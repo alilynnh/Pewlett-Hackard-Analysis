@@ -1,7 +1,7 @@
 # Pewlett Hackard Analysis
 ## Overview
 ### Background
-The current project was done for the very large and longstanding company Pewlett Hackard. As members of the large generation of "Baby Boomers" begin to retire, Pewlitt Hackard wants to prepare for their subsequent vacancies. 
+The current project was done for the very large and longstanding company Pewlett Hackard. As members of the large generation of "Baby Boomers" begin to retire, Pewlett Hackard wants to prepare for their subsequent vacancies. 
 
 ### Purpose
 The purpose of this analysis was to determine the number of retiring employees per title and to identify current employees who are eligible to particiapte in a mentorship program. The analysis was conducted using SQL. Full results tables can be found in the "Data" folder. 
@@ -20,7 +20,7 @@ A table of employees who are eligible to be mentors was created by selecting cur
 ![](Resources/mentorship_eligibility.png)
 
 ## Summary 
-Based on the original analysis of unique titles of those who are retiring, one may conclude that 90,398 employees are retiring. However, this analysis did not account for the fact that some of the retiring employees may not work for Pewlitt Hackard anymore. Because of this, an extra analysis was done which selected only those who are currently employed at Pewlett Hackard. This resulted in the table below: 
+Based on the original analysis of unique titles of those who are retiring, one may conclude that 90,398 employees are retiring. However, this analysis did not account for the fact that some of the retiring employees may not work for Pewlett Hackard anymore. Because of this, an extra analysis was done which selected only those who are currently employed at Pewlett Hackard. This resulted in the table below: 
 
 *Currently Employed Retiring Titles*  
 ![](Resources/current_retiring_titles.png)
